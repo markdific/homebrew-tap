@@ -1,6 +1,6 @@
 cask "markdific" do
-  version "1.3.2"
-  sha256 "d95a32bc39fb0e12620972aa0754a11e8e57f3bfde2df3540fe7eabd57e3008e"
+  version "1.5.0"
+  sha256 "bbf66a2068b28ee1f7fa2fa3914beab025508b3511917b9207ec81e3624495dc"
 
   url "https://licenses.markdific.com/download/mac/#{version}"
   name "Markdific"
